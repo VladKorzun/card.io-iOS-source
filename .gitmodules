@@ -1,0 +1,3 @@
+[submodule "dmz"]
+	path = dmz
+	url = https://github.com/VladKorzun/card.io-dmz.git
