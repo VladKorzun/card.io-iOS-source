@@ -4,6 +4,7 @@
 //
 //
 
+#include "../Pods/Target Support Files/Pods-CardIO/Pods-CardIO.debug.xcconfig"
 #include "CardIO_Framework.xcconfig"
 
 GCC_OPTIMIZATION_LEVEL = 0

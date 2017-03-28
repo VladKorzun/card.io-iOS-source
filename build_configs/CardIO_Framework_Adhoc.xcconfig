@@ -4,6 +4,7 @@
 //
 //
 
+#include "../Pods/Target Support Files/Pods-CardIO/Pods-CardIO.adhoc.xcconfig"
 #include "CardIO_Framework.xcconfig"
 
 CODE_SIGN_ENTITLEMENTS = SupportFiles/AdHocEntitlements.plist

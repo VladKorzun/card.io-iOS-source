@@ -4,6 +4,7 @@
 //
 //
 
+#include "../Pods/Target Support Files/Pods-CardIO/Pods-CardIO.release.xcconfig"
 #include "CardIO_Framework.xcconfig"
 
 // Cannot use EXPORTED_SYMBOLS_FILE with Bitcode enablement (related to 22897234 in Xcode 7.1 release notes?)
